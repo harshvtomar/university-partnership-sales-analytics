@@ -1,0 +1,51 @@
+{
+  "as_of": "2026-09-30",
+  "seed": 20261017,
+  "counts": {
+    "institutions": 600,
+    "opportunities": 600,
+    "stage_history": 1971,
+    "activities": 4399,
+    "revenue": 57
+  },
+  "kpis": {
+    "prospects": 600,
+    "opportunities": 600,
+    "active": 370,
+    "won": 57,
+    "lost": 173,
+    "pipeline": 109230000,
+    "bookings": 16886000,
+    "win_rate": 0.24782608695652175,
+    "avg_deal": 296245.6140350877,
+    "cycle_days": 124.9298245614035,
+    "stalled": 270,
+    "overdue": 222,
+    "recognized": 5736156.17
+  },
+  "forecasts": [
+    {
+      "scenario": "Conservative",
+      "forecast": 3438260.0,
+      "eligible_opportunities": 108
+    },
+    {
+      "scenario": "Base",
+      "forecast": 4911800.0,
+      "eligible_opportunities": 108
+    },
+    {
+      "scenario": "Optimistic",
+      "forecast": 6385340.0,
+      "eligible_opportunities": 108
+    }
+  ],
+  "recommendations": [
+    "Sales managers: resolve 222 overdue next actions across 370 open opportunities; review the latest activity before assigning outreach.",
+    "Pipeline review: 270 open opportunities have spent over 30 days in their current stage. Requalify these before increasing forecast confidence.",
+    "Enablement: Proposal Sent has the lowest observed next-stage conversion among stages with at least 20 entries: 75/146 (51.4%). Review objections and allow for unfinished sales cycles.",
+    "Territory coverage: North holds \u20b92.92 Cr in active pipeline with 57 overdue actions. Clear the backlog before allocating additional prospecting capacity.",
+    "Next account review: Simulated Ahmedabad University 426 (O0426) scores 80.2/100 and carries \u20b912.23 L potential value. This score is a prioritization heuristic, not a win probability.",
+    "Forecast hygiene: 224 open deals (\u20b97.10 Cr) have past-due expected close dates and are excluded from the next-quarter forecast. Owners must revise dates or close the records."
+  ]
+}

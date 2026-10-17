@@ -1,0 +1,601 @@
+opportunity_id,institution_id,sales_rep,lead_source,created,stage,value,expected_close,actual_close,status,reason
+O0001,I0001,Rep 01,Conference,2026-01-02,Closed Won,104000,2026-04-09,2026-05-15,Won,Campaign scope agreed
+O0002,I0002,Rep 02,Conference,2026-02-25,Initial Contact,249000,2026-07-08,,Open,
+O0003,I0003,Rep 03,Webinar,2026-04-22,Prospect Identified,258000,2026-08-17,,Open,
+O0004,I0004,Rep 04,Inbound enquiry,2026-08-08,Initial Contact,171000,2027-01-04,,Open,
+O0005,I0005,Rep 05,Outbound research,2026-06-26,Closed Lost,206000,2026-11-18,2026-08-15,Lost,No strategic fit
+O0006,I0006,Rep 06,Outbound research,2026-09-09,Qualified,197000,2026-12-29,,Open,
+O0007,I0007,Rep 07,Outbound research,2026-06-22,Proposal Sent,104000,2026-10-15,,Open,
+O0008,I0008,Rep 08,Referral,2026-01-18,Closed Lost,109000,2026-04-10,2026-03-13,Lost,Budget unavailable
+O0009,I0009,Rep 01,Webinar,2026-02-23,Closed Lost,176000,2026-06-02,2026-03-30,Lost,Budget unavailable
+O0010,I0010,Rep 02,Referral,2025-12-04,Closed Won,101000,2026-02-27,2026-05-27,Won,Campaign scope agreed
+O0011,I0011,Rep 03,Conference,2026-09-07,Initial Contact,299000,2027-01-27,,Open,
+O0012,I0012,Rep 04,Outbound research,2026-05-27,Initial Contact,350000,2026-08-19,,Open,
+O0013,I0013,Rep 05,Webinar,2026-04-11,Qualified,1074000,2026-07-28,,Open,
+O0014,I0014,Rep 06,Outbound research,2026-03-24,Qualified,1109000,2026-07-16,,Open,
+O0015,I0015,Rep 07,Conference,2026-05-13,Closed Lost,159000,2026-08-08,2026-06-21,Lost,Budget unavailable
+O0016,I0016,Rep 08,Conference,2026-08-17,Closed Lost,339000,2026-12-09,2026-09-10,Lost,Procurement delay
+O0017,I0017,Rep 01,Webinar,2026-03-04,Closed Won,102000,2026-07-08,2026-08-15,Won,Campaign scope agreed
+O0018,I0018,Rep 02,Conference,2026-01-30,Prospect Identified,152000,2026-05-07,,Open,
+O0019,I0019,Rep 03,Webinar,2026-02-07,Qualified,113000,2026-06-23,,Open,
+O0020,I0020,Rep 04,Outbound research,2025-11-25,Closed Lost,119000,2026-03-17,2025-12-20,Lost,Procurement delay
+O0021,I0021,Rep 05,Webinar,2025-10-22,Closed Won,313000,2026-03-15,2026-01-27,Won,Campaign scope agreed
+O0022,I0022,Rep 06,Inbound enquiry,2026-02-23,Closed Lost,703000,2026-06-30,2026-05-11,Lost,No strategic fit
+O0023,I0023,Rep 07,Outbound research,2025-11-06,Prospect Identified,794000,2026-02-07,,Open,
+O0024,I0024,Rep 08,Inbound enquiry,2025-10-29,Prospect Identified,914000,2026-01-19,,Open,
+O0025,I0025,Rep 01,Inbound enquiry,2026-01-25,Qualified,349000,2026-05-05,,Open,
+O0026,I0026,Rep 02,Inbound enquiry,2026-07-28,Closed Lost,384000,2026-10-19,2026-09-02,Lost,Procurement delay
+O0027,I0027,Rep 03,Outbound research,2026-03-29,Qualified,488000,2026-07-28,,Open,
+O0028,I0028,Rep 04,Webinar,2026-06-14,Meeting Scheduled,128000,2026-10-28,,Open,
+O0029,I0029,Rep 05,Outbound research,2026-06-22,Qualified,168000,2026-10-27,,Open,
+O0030,I0030,Rep 06,Referral,2026-03-24,Meeting Scheduled,121000,2026-07-05,,Open,
+O0031,I0031,Rep 07,Inbound enquiry,2026-06-28,Initial Contact,267000,2026-10-30,,Open,
+O0032,I0032,Rep 08,Inbound enquiry,2026-01-08,Closed Won,119000,2026-05-27,2026-05-04,Won,Campaign scope agreed
+O0033,I0033,Rep 01,Webinar,2026-03-06,Closed Lost,202000,2026-05-30,2026-03-13,Lost,Competitor selected
+O0034,I0034,Rep 02,Webinar,2025-11-12,Closed Lost,236000,2026-01-31,2025-12-10,Lost,Competitor selected
+O0035,I0035,Rep 03,Outbound research,2026-03-16,Closed Won,159000,2026-08-07,2026-07-24,Won,Campaign scope agreed
+O0036,I0036,Rep 04,Conference,2025-10-25,Proposal Sent,831000,2026-01-30,,Open,
+O0037,I0037,Rep 05,Webinar,2026-05-01,Closed Lost,238000,2026-08-01,2026-05-25,Lost,Budget unavailable
+O0038,I0038,Rep 06,Conference,2026-02-24,Proposal Sent,151000,2026-06-10,,Open,
+O0039,I0039,Rep 07,Webinar,2026-08-24,Initial Contact,259000,2026-11-15,,Open,
+O0040,I0040,Rep 08,Conference,2026-03-25,Closed Won,110000,2026-07-03,2026-08-22,Won,Campaign scope agreed
+O0041,I0041,Rep 01,Conference,2025-11-06,Prospect Identified,199000,2026-01-30,,Open,
+O0042,I0042,Rep 02,Referral,2026-02-21,Meeting Scheduled,180000,2026-06-13,,Open,
+O0043,I0043,Rep 03,Inbound enquiry,2026-09-23,Prospect Identified,444000,2026-12-23,,Open,
+O0044,I0044,Rep 04,Conference,2026-06-15,Proposal Sent,254000,2026-09-09,,Open,
+O0045,I0045,Rep 05,Inbound enquiry,2026-02-23,Closed Lost,816000,2026-07-14,2026-04-06,Lost,No strategic fit
+O0046,I0046,Rep 06,Outbound research,2026-01-02,Qualified,228000,2026-05-07,,Open,
+O0047,I0047,Rep 07,Inbound enquiry,2026-09-14,Prospect Identified,156000,2027-01-28,,Open,
+O0048,I0048,Rep 08,Referral,2026-01-28,Prospect Identified,945000,2026-05-16,,Open,
+O0049,I0049,Rep 01,Outbound research,2026-07-19,Prospect Identified,307000,2026-10-07,,Open,
+O0050,I0050,Rep 02,Webinar,2026-08-16,Initial Contact,330000,2026-11-18,,Open,
+O0051,I0051,Rep 03,Webinar,2026-04-23,Prospect Identified,293000,2026-08-06,,Open,
+O0052,I0052,Rep 04,Outbound research,2025-11-07,Closed Lost,254000,2026-01-28,2026-01-09,Lost,Procurement delay
+O0053,I0053,Rep 05,Conference,2026-03-04,Closed Won,359000,2026-06-29,2026-06-22,Won,Campaign scope agreed
+O0054,I0054,Rep 06,Outbound research,2026-09-13,Prospect Identified,263000,2027-02-07,,Open,
+O0055,I0055,Rep 07,Inbound enquiry,2026-05-15,Prospect Identified,368000,2026-08-07,,Open,
+O0056,I0056,Rep 08,Webinar,2026-08-24,Qualified,195000,2027-01-12,,Open,
+O0057,I0057,Rep 01,Outbound research,2026-04-15,Meeting Scheduled,211000,2026-08-13,,Open,
+O0058,I0058,Rep 02,Webinar,2026-09-28,Prospect Identified,218000,2027-02-07,,Open,
+O0059,I0059,Rep 03,Referral,2026-03-17,Closed Lost,727000,2026-07-18,2026-05-11,Lost,Competitor selected
+O0060,I0060,Rep 04,Conference,2026-02-16,Closed Won,392000,2026-06-14,2026-07-06,Won,Campaign scope agreed
+O0061,I0061,Rep 05,Webinar,2025-10-24,Closed Lost,174000,2026-01-30,2025-11-08,Lost,Procurement delay
+O0062,I0062,Rep 06,Inbound enquiry,2026-09-12,Qualified,222000,2027-01-09,,Open,
+O0063,I0063,Rep 07,Conference,2025-11-08,Prospect Identified,338000,2026-04-04,,Open,
+O0064,I0064,Rep 08,Webinar,2026-01-29,Initial Contact,226000,2026-06-24,,Open,
+O0065,I0065,Rep 01,Outbound research,2026-05-01,Meeting Scheduled,166000,2026-09-18,,Open,
+O0066,I0066,Rep 02,Conference,2026-01-23,Initial Contact,390000,2026-04-23,,Open,
+O0067,I0067,Rep 03,Inbound enquiry,2026-03-15,Closed Lost,458000,2026-07-11,2026-07-12,Lost,No strategic fit
+O0068,I0068,Rep 04,Conference,2025-11-30,Proposal Sent,103000,2026-04-02,,Open,
+O0069,I0069,Rep 05,Conference,2026-05-23,Closed Won,98000,2026-09-01,2026-09-15,Won,Campaign scope agreed
+O0070,I0070,Rep 06,Referral,2026-04-29,Prospect Identified,91000,2026-08-31,,Open,
+O0071,I0071,Rep 07,Outbound research,2026-07-12,Prospect Identified,109000,2026-10-09,,Open,
+O0072,I0072,Rep 08,Referral,2025-12-20,Qualified,278000,2026-03-20,,Open,
+O0073,I0073,Rep 01,Inbound enquiry,2026-01-15,Closed Lost,138000,2026-04-20,2026-02-15,Lost,Budget unavailable
+O0074,I0074,Rep 02,Outbound research,2026-06-02,Qualified,712000,2026-09-06,,Open,
+O0075,I0075,Rep 03,Outbound research,2026-06-04,Meeting Scheduled,145000,2026-09-11,,Open,
+O0076,I0076,Rep 04,Inbound enquiry,2025-12-08,Meeting Scheduled,606000,2026-03-26,,Open,
+O0077,I0077,Rep 05,Webinar,2025-10-03,Prospect Identified,176000,2026-01-05,,Open,
+O0078,I0078,Rep 06,Outbound research,2026-01-21,Qualified,358000,2026-05-27,,Open,
+O0079,I0079,Rep 07,Referral,2026-05-31,Proposal Sent,134000,2026-10-20,,Open,
+O0080,I0080,Rep 08,Webinar,2026-03-26,Qualified,249000,2026-07-16,,Open,
+O0081,I0081,Rep 01,Inbound enquiry,2026-09-24,Prospect Identified,115000,2027-01-12,,Open,
+O0082,I0082,Rep 02,Outbound research,2026-08-20,Prospect Identified,147000,2027-01-12,,Open,
+O0083,I0083,Rep 03,Webinar,2026-09-17,Qualified,192000,2027-02-13,,Open,
+O0084,I0084,Rep 04,Inbound enquiry,2026-05-29,Initial Contact,193000,2026-09-12,,Open,
+O0085,I0085,Rep 05,Conference,2026-07-19,Closed Lost,275000,2026-10-19,2026-09-12,Lost,Competitor selected
+O0086,I0086,Rep 06,Conference,2025-12-19,Closed Lost,173000,2026-03-16,2026-02-20,Lost,Competitor selected
+O0087,I0087,Rep 07,Outbound research,2026-07-23,Closed Lost,221000,2026-11-25,2026-08-29,Lost,No strategic fit
+O0088,I0088,Rep 08,Referral,2025-12-19,Closed Lost,268000,2026-04-02,2026-01-02,Lost,No strategic fit
+O0089,I0089,Rep 01,Referral,2025-11-16,Closed Lost,367000,2026-02-12,2025-12-14,Lost,Budget unavailable
+O0090,I0090,Rep 02,Webinar,2025-10-01,Proposal Sent,139000,2026-02-03,,Open,
+O0091,I0091,Rep 03,Conference,2026-03-04,Closed Lost,154000,2026-07-07,2026-05-05,Lost,Competitor selected
+O0092,I0092,Rep 04,Webinar,2026-08-09,Closed Lost,437000,2026-11-08,2026-09-10,Lost,Budget unavailable
+O0093,I0093,Rep 05,Outbound research,2025-11-01,Proposal Sent,124000,2026-02-09,,Open,
+O0094,I0094,Rep 06,Webinar,2025-10-27,Closed Lost,412000,2026-01-29,2026-01-01,Lost,No strategic fit
+O0095,I0095,Rep 07,Conference,2026-07-21,Prospect Identified,1040000,2026-11-03,,Open,
+O0096,I0096,Rep 08,Webinar,2025-11-08,Prospect Identified,218000,2026-03-23,,Open,
+O0097,I0097,Rep 01,Webinar,2026-03-27,Prospect Identified,624000,2026-06-16,,Open,
+O0098,I0098,Rep 02,Outbound research,2025-12-23,Closed Lost,1221000,2026-03-26,2026-04-17,Lost,No strategic fit
+O0099,I0099,Rep 03,Webinar,2026-01-21,Closed Lost,1130000,2026-04-23,2026-03-23,Lost,No strategic fit
+O0100,I0100,Rep 04,Outbound research,2026-09-27,Prospect Identified,213000,2026-12-28,,Open,
+O0101,I0101,Rep 05,Outbound research,2026-06-07,Closed Lost,242000,2026-10-26,2026-07-05,Lost,Competitor selected
+O0102,I0102,Rep 06,Referral,2026-06-21,Qualified,132000,2026-11-05,,Open,
+O0103,I0103,Rep 07,Outbound research,2025-12-19,Proposal Sent,170000,2026-04-21,,Open,
+O0104,I0104,Rep 08,Webinar,2026-02-20,Closed Lost,112000,2026-07-03,2026-03-01,Lost,Competitor selected
+O0105,I0105,Rep 01,Referral,2026-08-24,Qualified,190000,2026-12-01,,Open,
+O0106,I0106,Rep 02,Webinar,2026-08-20,Closed Lost,164000,2026-12-21,2026-08-29,Lost,No strategic fit
+O0107,I0107,Rep 03,Referral,2025-11-04,Closed Lost,181000,2026-02-16,2026-02-09,Lost,Procurement delay
+O0108,I0108,Rep 04,Webinar,2026-04-12,Proposal Sent,207000,2026-08-10,,Open,
+O0109,I0109,Rep 05,Inbound enquiry,2026-03-21,Qualified,267000,2026-06-30,,Open,
+O0110,I0110,Rep 06,Referral,2025-10-22,Closed Lost,213000,2026-03-14,2026-03-20,Lost,Budget unavailable
+O0111,I0111,Rep 07,Referral,2025-12-06,Prospect Identified,132000,2026-04-07,,Open,
+O0112,I0112,Rep 08,Conference,2025-11-11,Initial Contact,207000,2026-02-11,,Open,
+O0113,I0113,Rep 01,Outbound research,2026-05-09,Initial Contact,120000,2026-08-23,,Open,
+O0114,I0114,Rep 02,Outbound research,2025-11-01,Initial Contact,361000,2026-01-25,,Open,
+O0115,I0115,Rep 03,Outbound research,2026-07-09,Closed Lost,361000,2026-10-15,2026-07-28,Lost,Competitor selected
+O0116,I0116,Rep 04,Inbound enquiry,2026-05-10,Closed Lost,602000,2026-08-31,2026-07-13,Lost,Competitor selected
+O0117,I0117,Rep 05,Referral,2026-04-26,Initial Contact,344000,2026-09-08,,Open,
+O0118,I0118,Rep 06,Outbound research,2026-04-10,Prospect Identified,338000,2026-08-07,,Open,
+O0119,I0119,Rep 07,Inbound enquiry,2026-06-08,Prospect Identified,341000,2026-11-02,,Open,
+O0120,I0120,Rep 08,Inbound enquiry,2026-08-24,Meeting Scheduled,151000,2026-12-10,,Open,
+O0121,I0121,Rep 01,Outbound research,2026-05-02,Prospect Identified,116000,2026-08-28,,Open,
+O0122,I0122,Rep 02,Outbound research,2026-08-17,Proposal Sent,688000,2026-12-02,,Open,
+O0123,I0123,Rep 03,Conference,2026-03-20,Closed Won,240000,2026-08-10,2026-07-01,Won,Campaign scope agreed
+O0124,I0124,Rep 04,Outbound research,2025-12-31,Meeting Scheduled,148000,2026-04-01,,Open,
+O0125,I0125,Rep 05,Outbound research,2026-06-16,Closed Lost,308000,2026-10-01,2026-08-24,Lost,Competitor selected
+O0126,I0126,Rep 06,Webinar,2026-05-02,Prospect Identified,143000,2026-08-08,,Open,
+O0127,I0127,Rep 07,Conference,2025-11-28,Prospect Identified,92000,2026-03-24,,Open,
+O0128,I0128,Rep 08,Webinar,2025-10-12,Negotiation,263000,2026-01-02,,Open,
+O0129,I0129,Rep 01,Inbound enquiry,2026-09-19,Prospect Identified,321000,2027-01-14,,Open,
+O0130,I0130,Rep 02,Webinar,2025-12-23,Meeting Scheduled,791000,2026-04-20,,Open,
+O0131,I0131,Rep 03,Webinar,2026-09-25,Prospect Identified,110000,2027-01-08,,Open,
+O0132,I0132,Rep 04,Webinar,2026-04-18,Proposal Sent,224000,2026-08-09,,Open,
+O0133,I0133,Rep 05,Inbound enquiry,2026-09-07,Prospect Identified,131000,2026-12-01,,Open,
+O0134,I0134,Rep 06,Inbound enquiry,2026-09-14,Prospect Identified,303000,2027-01-30,,Open,
+O0135,I0135,Rep 07,Conference,2026-09-27,Prospect Identified,102000,2027-01-07,,Open,
+O0136,I0136,Rep 08,Inbound enquiry,2026-07-04,Closed Lost,319000,2026-10-12,2026-09-26,Lost,Budget unavailable
+O0137,I0137,Rep 01,Inbound enquiry,2026-05-23,Closed Won,121000,2026-09-26,2026-08-18,Won,Campaign scope agreed
+O0138,I0138,Rep 02,Webinar,2026-08-08,Closed Lost,181000,2026-11-05,2026-09-13,Lost,Budget unavailable
+O0139,I0139,Rep 03,Conference,2025-11-20,Qualified,315000,2026-02-20,,Open,
+O0140,I0140,Rep 04,Webinar,2025-11-13,Meeting Scheduled,771000,2026-03-21,,Open,
+O0141,I0141,Rep 05,Conference,2026-02-07,Closed Lost,278000,2026-06-07,2026-03-17,Lost,Budget unavailable
+O0142,I0142,Rep 06,Conference,2026-06-15,Prospect Identified,261000,2026-11-12,,Open,
+O0143,I0143,Rep 07,Referral,2026-09-21,Prospect Identified,263000,2027-01-08,,Open,
+O0144,I0144,Rep 08,Referral,2025-12-18,Closed Lost,353000,2026-05-08,2026-01-12,Lost,Procurement delay
+O0145,I0145,Rep 01,Outbound research,2026-02-10,Meeting Scheduled,584000,2026-05-21,,Open,
+O0146,I0146,Rep 02,Conference,2026-09-05,Qualified,110000,2026-12-24,,Open,
+O0147,I0147,Rep 03,Inbound enquiry,2026-06-05,Meeting Scheduled,235000,2026-08-26,,Open,
+O0148,I0148,Rep 04,Outbound research,2025-12-07,Initial Contact,459000,2026-03-23,,Open,
+O0149,I0149,Rep 05,Inbound enquiry,2026-06-22,Closed Lost,212000,2026-11-01,2026-08-17,Lost,No strategic fit
+O0150,I0150,Rep 06,Conference,2026-09-06,Qualified,200000,2027-01-22,,Open,
+O0151,I0151,Rep 07,Outbound research,2026-04-02,Prospect Identified,249000,2026-07-26,,Open,
+O0152,I0152,Rep 08,Inbound enquiry,2026-08-03,Closed Lost,150000,2026-12-04,2026-08-26,Lost,No strategic fit
+O0153,I0153,Rep 01,Outbound research,2026-06-24,Proposal Sent,169000,2026-09-26,,Open,
+O0154,I0154,Rep 02,Webinar,2026-02-07,Closed Lost,261000,2026-07-04,2026-05-11,Lost,Competitor selected
+O0155,I0155,Rep 03,Conference,2026-07-24,Closed Lost,243000,2026-10-22,2026-08-18,Lost,Competitor selected
+O0156,I0156,Rep 04,Referral,2025-10-10,Closed Won,133000,2026-01-16,2026-02-02,Won,Campaign scope agreed
+O0157,I0157,Rep 05,Conference,2026-03-06,Prospect Identified,278000,2026-06-24,,Open,
+O0158,I0158,Rep 06,Webinar,2025-12-03,Qualified,196000,2026-03-04,,Open,
+O0159,I0159,Rep 07,Inbound enquiry,2026-05-30,Closed Won,220000,2026-09-24,2026-09-10,Won,Campaign scope agreed
+O0160,I0160,Rep 08,Webinar,2026-02-16,Closed Won,558000,2026-05-18,2026-06-19,Won,Campaign scope agreed
+O0161,I0161,Rep 01,Referral,2026-06-08,Proposal Sent,343000,2026-09-17,,Open,
+O0162,I0162,Rep 02,Referral,2026-02-17,Qualified,308000,2026-06-19,,Open,
+O0163,I0163,Rep 03,Outbound research,2026-05-29,Closed Won,340000,2026-08-25,2026-09-06,Won,Campaign scope agreed
+O0164,I0164,Rep 04,Webinar,2025-11-17,Closed Lost,220000,2026-02-19,2026-03-02,Lost,Competitor selected
+O0165,I0165,Rep 05,Webinar,2025-12-31,Meeting Scheduled,95000,2026-04-11,,Open,
+O0166,I0166,Rep 06,Conference,2026-08-03,Closed Lost,127000,2026-10-26,2026-09-02,Lost,No strategic fit
+O0167,I0167,Rep 07,Webinar,2025-10-26,Closed Lost,197000,2026-03-19,2025-11-15,Lost,No strategic fit
+O0168,I0168,Rep 08,Outbound research,2026-08-22,Closed Lost,118000,2026-12-03,2026-09-17,Lost,No strategic fit
+O0169,I0169,Rep 01,Webinar,2026-03-03,Closed Lost,241000,2026-07-29,2026-05-26,Lost,Competitor selected
+O0170,I0170,Rep 02,Conference,2026-05-12,Initial Contact,737000,2026-10-09,,Open,
+O0171,I0171,Rep 03,Outbound research,2026-07-16,Qualified,192000,2026-12-02,,Open,
+O0172,I0172,Rep 04,Inbound enquiry,2026-03-04,Initial Contact,258000,2026-07-04,,Open,
+O0173,I0173,Rep 05,Inbound enquiry,2026-07-06,Qualified,420000,2026-10-18,,Open,
+O0174,I0174,Rep 06,Conference,2026-07-02,Prospect Identified,170000,2026-11-16,,Open,
+O0175,I0175,Rep 07,Inbound enquiry,2025-11-25,Closed Lost,153000,2026-04-16,2025-12-15,Lost,Competitor selected
+O0176,I0176,Rep 08,Inbound enquiry,2026-05-20,Initial Contact,318000,2026-09-08,,Open,
+O0177,I0177,Rep 01,Webinar,2026-05-03,Closed Lost,109000,2026-08-30,2026-07-24,Lost,Procurement delay
+O0178,I0178,Rep 02,Referral,2026-05-09,Qualified,150000,2026-09-29,,Open,
+O0179,I0179,Rep 03,Outbound research,2026-04-16,Proposal Sent,311000,2026-08-04,,Open,
+O0180,I0180,Rep 04,Outbound research,2026-01-26,Negotiation,231000,2026-06-17,,Open,
+O0181,I0181,Rep 05,Outbound research,2026-04-07,Prospect Identified,623000,2026-08-27,,Open,
+O0182,I0182,Rep 06,Webinar,2025-11-11,Closed Won,285000,2026-03-21,2026-02-22,Won,Campaign scope agreed
+O0183,I0183,Rep 07,Webinar,2026-04-24,Closed Lost,237000,2026-08-08,2026-06-04,Lost,Competitor selected
+O0184,I0184,Rep 08,Webinar,2025-11-05,Closed Lost,227000,2026-02-09,2026-03-12,Lost,Competitor selected
+O0185,I0185,Rep 01,Conference,2026-09-12,Prospect Identified,114000,2026-12-19,,Open,
+O0186,I0186,Rep 02,Inbound enquiry,2025-10-30,Closed Won,349000,2026-01-18,2026-03-19,Won,Campaign scope agreed
+O0187,I0187,Rep 03,Conference,2026-05-31,Closed Won,88000,2026-10-12,2026-09-24,Won,Campaign scope agreed
+O0188,I0188,Rep 04,Referral,2026-02-15,Closed Won,159000,2026-06-10,2026-06-26,Won,Campaign scope agreed
+O0189,I0189,Rep 05,Conference,2026-07-26,Initial Contact,672000,2026-12-22,,Open,
+O0190,I0190,Rep 06,Referral,2026-07-06,Proposal Sent,163000,2026-11-17,,Open,
+O0191,I0191,Rep 07,Inbound enquiry,2026-08-24,Initial Contact,128000,2026-12-28,,Open,
+O0192,I0192,Rep 08,Webinar,2026-02-23,Prospect Identified,290000,2026-07-11,,Open,
+O0193,I0193,Rep 01,Inbound enquiry,2026-07-13,Meeting Scheduled,187000,2026-10-27,,Open,
+O0194,I0194,Rep 02,Referral,2026-08-19,Qualified,155000,2026-12-09,,Open,
+O0195,I0195,Rep 03,Inbound enquiry,2025-11-07,Closed Lost,444000,2026-01-29,2026-02-12,Lost,Procurement delay
+O0196,I0196,Rep 04,Outbound research,2026-02-08,Qualified,312000,2026-06-29,,Open,
+O0197,I0197,Rep 05,Webinar,2026-02-19,Qualified,213000,2026-06-15,,Open,
+O0198,I0198,Rep 06,Inbound enquiry,2025-11-28,Proposal Sent,253000,2026-04-03,,Open,
+O0199,I0199,Rep 07,Outbound research,2025-10-09,Closed Lost,334000,2026-01-04,2025-10-17,Lost,Budget unavailable
+O0200,I0200,Rep 08,Referral,2026-05-17,Closed Won,259000,2026-09-03,2026-09-22,Won,Campaign scope agreed
+O0201,I0201,Rep 01,Inbound enquiry,2026-05-13,Closed Lost,370000,2026-08-30,2026-07-30,Lost,Budget unavailable
+O0202,I0202,Rep 02,Inbound enquiry,2025-10-03,Prospect Identified,220000,2026-02-22,,Open,
+O0203,I0203,Rep 03,Conference,2025-10-13,Closed Lost,396000,2026-02-15,2026-01-23,Lost,Competitor selected
+O0204,I0204,Rep 04,Outbound research,2026-09-29,Prospect Identified,882000,2027-02-11,,Open,
+O0205,I0205,Rep 05,Inbound enquiry,2026-09-12,Prospect Identified,90000,2026-12-17,,Open,
+O0206,I0206,Rep 06,Outbound research,2026-07-03,Closed Lost,354000,2026-10-07,2026-08-10,Lost,Competitor selected
+O0207,I0207,Rep 07,Webinar,2025-12-15,Closed Lost,187000,2026-03-14,2026-02-26,Lost,Budget unavailable
+O0208,I0208,Rep 08,Inbound enquiry,2026-02-19,Closed Won,203000,2026-07-16,2026-06-10,Won,Campaign scope agreed
+O0209,I0209,Rep 01,Referral,2026-01-10,Prospect Identified,235000,2026-05-06,,Open,
+O0210,I0210,Rep 02,Conference,2026-01-06,Prospect Identified,279000,2026-05-19,,Open,
+O0211,I0211,Rep 03,Referral,2025-12-23,Prospect Identified,782000,2026-04-05,,Open,
+O0212,I0212,Rep 04,Webinar,2025-11-27,Closed Lost,187000,2026-03-03,2025-12-07,Lost,No strategic fit
+O0213,I0213,Rep 05,Conference,2026-09-01,Closed Lost,757000,2027-01-08,2026-09-10,Lost,Competitor selected
+O0214,I0214,Rep 06,Webinar,2026-03-12,Closed Lost,269000,2026-07-03,2026-05-13,Lost,Budget unavailable
+O0215,I0215,Rep 07,Referral,2026-04-03,Closed Lost,537000,2026-07-27,2026-06-29,Lost,No strategic fit
+O0216,I0216,Rep 08,Referral,2026-05-25,Meeting Scheduled,261000,2026-10-08,,Open,
+O0217,I0217,Rep 01,Conference,2026-01-02,Closed Won,447000,2026-05-22,2026-05-04,Won,Campaign scope agreed
+O0218,I0218,Rep 02,Inbound enquiry,2026-04-22,Closed Lost,162000,2026-08-26,2026-06-04,Lost,Procurement delay
+O0219,I0219,Rep 03,Webinar,2026-07-16,Closed Lost,352000,2026-11-02,2026-08-29,Lost,No strategic fit
+O0220,I0220,Rep 04,Inbound enquiry,2026-04-06,Closed Won,137000,2026-07-06,2026-08-03,Won,Campaign scope agreed
+O0221,I0221,Rep 05,Referral,2026-02-22,Prospect Identified,500000,2026-07-08,,Open,
+O0222,I0222,Rep 06,Conference,2026-08-09,Meeting Scheduled,263000,2026-11-04,,Open,
+O0223,I0223,Rep 07,Outbound research,2025-11-14,Qualified,465000,2026-03-17,,Open,
+O0224,I0224,Rep 08,Conference,2025-12-10,Initial Contact,254000,2026-04-27,,Open,
+O0225,I0225,Rep 01,Outbound research,2025-10-26,Closed Lost,194000,2026-01-20,2026-02-19,Lost,Procurement delay
+O0226,I0226,Rep 02,Outbound research,2026-06-21,Proposal Sent,400000,2026-10-19,,Open,
+O0227,I0227,Rep 03,Webinar,2025-10-05,Prospect Identified,121000,2026-01-07,,Open,
+O0228,I0228,Rep 04,Webinar,2026-03-06,Initial Contact,185000,2026-07-01,,Open,
+O0229,I0229,Rep 05,Outbound research,2026-07-13,Closed Lost,86000,2026-11-19,2026-08-14,Lost,Procurement delay
+O0230,I0230,Rep 06,Outbound research,2026-05-02,Initial Contact,252000,2026-08-19,,Open,
+O0231,I0231,Rep 07,Conference,2026-09-18,Qualified,383000,2026-12-24,,Open,
+O0232,I0232,Rep 08,Inbound enquiry,2026-08-01,Initial Contact,658000,2026-10-22,,Open,
+O0233,I0233,Rep 01,Outbound research,2026-05-22,Negotiation,283000,2026-08-10,,Open,
+O0234,I0234,Rep 02,Inbound enquiry,2025-11-04,Closed Won,521000,2026-02-06,2026-02-03,Won,Campaign scope agreed
+O0235,I0235,Rep 03,Referral,2026-02-23,Proposal Sent,218000,2026-07-18,,Open,
+O0236,I0236,Rep 04,Outbound research,2026-03-17,Prospect Identified,204000,2026-07-25,,Open,
+O0237,I0237,Rep 05,Webinar,2026-02-20,Qualified,133000,2026-06-05,,Open,
+O0238,I0238,Rep 06,Conference,2025-10-14,Closed Lost,342000,2026-01-06,2025-12-27,Lost,Competitor selected
+O0239,I0239,Rep 07,Conference,2026-07-10,Prospect Identified,393000,2026-10-17,,Open,
+O0240,I0240,Rep 08,Referral,2025-10-03,Meeting Scheduled,317000,2026-01-30,,Open,
+O0241,I0241,Rep 01,Webinar,2026-06-23,Meeting Scheduled,411000,2026-10-14,,Open,
+O0242,I0242,Rep 02,Conference,2026-06-13,Closed Lost,222000,2026-10-27,2026-09-20,Lost,Competitor selected
+O0243,I0243,Rep 03,Webinar,2026-09-06,Closed Lost,180000,2026-12-24,2026-09-21,Lost,Competitor selected
+O0244,I0244,Rep 04,Conference,2026-01-18,Closed Won,436000,2026-04-18,2026-05-11,Won,Campaign scope agreed
+O0245,I0245,Rep 05,Outbound research,2026-06-01,Proposal Sent,171000,2026-09-18,,Open,
+O0246,I0246,Rep 06,Webinar,2026-06-13,Qualified,178000,2026-11-08,,Open,
+O0247,I0247,Rep 07,Referral,2026-02-07,Prospect Identified,951000,2026-07-01,,Open,
+O0248,I0248,Rep 08,Referral,2025-12-06,Initial Contact,216000,2026-03-26,,Open,
+O0249,I0249,Rep 01,Outbound research,2026-07-13,Qualified,293000,2026-11-11,,Open,
+O0250,I0250,Rep 02,Inbound enquiry,2026-04-22,Initial Contact,203000,2026-07-13,,Open,
+O0251,I0251,Rep 03,Webinar,2026-02-23,Prospect Identified,392000,2026-06-29,,Open,
+O0252,I0252,Rep 04,Inbound enquiry,2026-07-14,Closed Lost,93000,2026-10-02,2026-08-23,Lost,Procurement delay
+O0253,I0253,Rep 05,Conference,2025-10-22,Qualified,145000,2026-02-16,,Open,
+O0254,I0254,Rep 06,Outbound research,2026-09-03,Qualified,94000,2026-12-09,,Open,
+O0255,I0255,Rep 07,Referral,2026-03-15,Closed Lost,265000,2026-07-07,2026-06-25,Lost,Competitor selected
+O0256,I0256,Rep 08,Conference,2026-09-14,Prospect Identified,308000,2027-01-23,,Open,
+O0257,I0257,Rep 01,Webinar,2026-01-09,Closed Lost,311000,2026-03-30,2026-01-29,Lost,Budget unavailable
+O0258,I0258,Rep 02,Outbound research,2025-10-28,Qualified,182000,2026-02-12,,Open,
+O0259,I0259,Rep 03,Outbound research,2025-10-04,Closed Lost,196000,2026-02-26,2025-11-03,Lost,No strategic fit
+O0260,I0260,Rep 04,Referral,2025-12-11,Closed Won,828000,2026-03-02,2026-03-23,Won,Campaign scope agreed
+O0261,I0261,Rep 05,Webinar,2026-07-05,Closed Lost,186000,2026-11-01,2026-07-24,Lost,Budget unavailable
+O0262,I0262,Rep 06,Conference,2026-01-14,Prospect Identified,197000,2026-06-05,,Open,
+O0263,I0263,Rep 07,Referral,2026-09-11,Prospect Identified,206000,2027-01-05,,Open,
+O0264,I0264,Rep 08,Webinar,2026-02-21,Closed Won,373000,2026-05-15,2026-07-03,Won,Campaign scope agreed
+O0265,I0265,Rep 01,Webinar,2026-01-23,Closed Lost,99000,2026-05-12,2026-03-08,Lost,Competitor selected
+O0266,I0266,Rep 02,Inbound enquiry,2026-08-24,Initial Contact,209000,2026-12-03,,Open,
+O0267,I0267,Rep 03,Outbound research,2026-03-21,Prospect Identified,158000,2026-06-24,,Open,
+O0268,I0268,Rep 04,Referral,2026-07-29,Prospect Identified,289000,2026-11-22,,Open,
+O0269,I0269,Rep 05,Referral,2026-05-30,Closed Lost,140000,2026-09-27,2026-06-10,Lost,No strategic fit
+O0270,I0270,Rep 06,Referral,2026-06-04,Prospect Identified,130000,2026-10-20,,Open,
+O0271,I0271,Rep 07,Conference,2026-01-13,Prospect Identified,927000,2026-06-07,,Open,
+O0272,I0272,Rep 08,Outbound research,2026-07-21,Closed Lost,157000,2026-10-24,2026-08-19,Lost,Budget unavailable
+O0273,I0273,Rep 01,Webinar,2026-01-14,Closed Lost,109000,2026-04-17,2026-02-10,Lost,Competitor selected
+O0274,I0274,Rep 02,Outbound research,2026-05-08,Closed Lost,229000,2026-09-29,2026-06-20,Lost,Procurement delay
+O0275,I0275,Rep 03,Referral,2025-11-26,Prospect Identified,258000,2026-03-13,,Open,
+O0276,I0276,Rep 04,Webinar,2025-11-06,Closed Won,276000,2026-03-15,2026-03-18,Won,Campaign scope agreed
+O0277,I0277,Rep 05,Referral,2026-06-18,Proposal Sent,630000,2026-09-22,,Open,
+O0278,I0278,Rep 06,Inbound enquiry,2025-10-15,Initial Contact,238000,2026-03-01,,Open,
+O0279,I0279,Rep 07,Inbound enquiry,2026-06-20,Proposal Sent,329000,2026-10-28,,Open,
+O0280,I0280,Rep 08,Webinar,2025-11-01,Closed Lost,1070000,2026-02-02,2025-11-20,Lost,No strategic fit
+O0281,I0281,Rep 01,Webinar,2025-12-26,Closed Won,93000,2026-05-08,2026-05-20,Won,Campaign scope agreed
+O0282,I0282,Rep 02,Outbound research,2026-09-12,Prospect Identified,191000,2027-02-05,,Open,
+O0283,I0283,Rep 03,Conference,2026-09-25,Prospect Identified,169000,2027-01-19,,Open,
+O0284,I0284,Rep 04,Outbound research,2026-08-16,Prospect Identified,106000,2026-11-18,,Open,
+O0285,I0285,Rep 05,Inbound enquiry,2026-06-06,Closed Won,145000,2026-10-28,2026-09-15,Won,Campaign scope agreed
+O0286,I0286,Rep 06,Referral,2026-08-02,Closed Lost,184000,2026-11-06,2026-08-27,Lost,Procurement delay
+O0287,I0287,Rep 07,Outbound research,2025-11-25,Qualified,197000,2026-03-03,,Open,
+O0288,I0288,Rep 08,Conference,2025-10-02,Prospect Identified,266000,2026-01-18,,Open,
+O0289,I0289,Rep 01,Outbound research,2026-04-14,Closed Lost,804000,2026-07-18,2026-05-14,Lost,Competitor selected
+O0290,I0290,Rep 02,Webinar,2026-04-05,Closed Won,299000,2026-08-31,2026-08-30,Won,Campaign scope agreed
+O0291,I0291,Rep 03,Webinar,2026-07-11,Qualified,205000,2026-10-12,,Open,
+O0292,I0292,Rep 04,Conference,2026-09-09,Closed Lost,92000,2026-11-28,2026-09-30,Lost,No strategic fit
+O0293,I0293,Rep 05,Conference,2026-07-19,Prospect Identified,416000,2026-12-09,,Open,
+O0294,I0294,Rep 06,Referral,2026-01-18,Qualified,1154000,2026-05-06,,Open,
+O0295,I0295,Rep 07,Inbound enquiry,2026-08-12,Initial Contact,280000,2026-12-15,,Open,
+O0296,I0296,Rep 08,Outbound research,2026-07-14,Meeting Scheduled,281000,2026-10-02,,Open,
+O0297,I0297,Rep 01,Inbound enquiry,2025-10-09,Meeting Scheduled,92000,2026-02-13,,Open,
+O0298,I0298,Rep 02,Inbound enquiry,2026-04-01,Closed Lost,223000,2026-06-27,2026-05-02,Lost,Competitor selected
+O0299,I0299,Rep 03,Referral,2026-01-01,Closed Lost,187000,2026-05-24,2026-03-02,Lost,No strategic fit
+O0300,I0300,Rep 04,Conference,2026-08-24,Closed Lost,628000,2026-12-10,2026-09-20,Lost,Competitor selected
+O0301,I0301,Rep 05,Conference,2026-07-18,Meeting Scheduled,775000,2026-10-08,,Open,
+O0302,I0302,Rep 06,Outbound research,2026-04-27,Closed Lost,319000,2026-08-26,2026-08-24,Lost,Procurement delay
+O0303,I0303,Rep 07,Outbound research,2026-07-08,Qualified,249000,2026-10-14,,Open,
+O0304,I0304,Rep 08,Webinar,2026-04-14,Closed Lost,939000,2026-08-04,2026-08-10,Lost,Procurement delay
+O0305,I0305,Rep 01,Webinar,2026-09-18,Prospect Identified,208000,2027-01-14,,Open,
+O0306,I0306,Rep 02,Inbound enquiry,2026-01-18,Closed Lost,672000,2026-04-09,2026-02-06,Lost,Procurement delay
+O0307,I0307,Rep 03,Referral,2026-03-17,Meeting Scheduled,654000,2026-07-21,,Open,
+O0308,I0308,Rep 04,Referral,2025-10-24,Initial Contact,279000,2026-03-07,,Open,
+O0309,I0309,Rep 05,Outbound research,2026-01-25,Closed Lost,193000,2026-05-12,2026-02-06,Lost,Competitor selected
+O0310,I0310,Rep 06,Inbound enquiry,2026-08-18,Prospect Identified,343000,2026-11-16,,Open,
+O0311,I0311,Rep 07,Conference,2025-10-31,Closed Lost,184000,2026-02-26,2026-02-16,Lost,Procurement delay
+O0312,I0312,Rep 08,Conference,2026-05-26,Closed Lost,498000,2026-09-01,2026-09-12,Lost,Procurement delay
+O0313,I0313,Rep 01,Inbound enquiry,2026-06-10,Meeting Scheduled,300000,2026-09-22,,Open,
+O0314,I0314,Rep 02,Inbound enquiry,2025-12-11,Closed Lost,165000,2026-03-17,2026-04-07,Lost,Competitor selected
+O0315,I0315,Rep 03,Outbound research,2026-01-19,Closed Lost,131000,2026-06-04,2026-01-26,Lost,No strategic fit
+O0316,I0316,Rep 04,Webinar,2026-09-03,Prospect Identified,94000,2026-12-08,,Open,
+O0317,I0317,Rep 05,Inbound enquiry,2026-02-21,Initial Contact,406000,2026-06-12,,Open,
+O0318,I0318,Rep 06,Referral,2026-05-23,Qualified,428000,2026-08-25,,Open,
+O0319,I0319,Rep 07,Outbound research,2026-02-11,Closed Lost,180000,2026-06-27,2026-04-25,Lost,No strategic fit
+O0320,I0320,Rep 08,Conference,2025-12-12,Prospect Identified,339000,2026-03-05,,Open,
+O0321,I0321,Rep 01,Outbound research,2026-08-08,Initial Contact,248000,2026-11-28,,Open,
+O0322,I0322,Rep 02,Referral,2025-10-20,Qualified,89000,2026-02-26,,Open,
+O0323,I0323,Rep 03,Inbound enquiry,2025-11-28,Closed Won,895000,2026-03-30,2026-03-26,Won,Campaign scope agreed
+O0324,I0324,Rep 04,Inbound enquiry,2026-02-16,Qualified,95000,2026-05-08,,Open,
+O0325,I0325,Rep 05,Inbound enquiry,2026-03-23,Closed Lost,153000,2026-08-17,2026-07-12,Lost,Budget unavailable
+O0326,I0326,Rep 06,Referral,2025-12-12,Prospect Identified,211000,2026-04-07,,Open,
+O0327,I0327,Rep 07,Conference,2026-08-06,Initial Contact,100000,2026-12-17,,Open,
+O0328,I0328,Rep 08,Outbound research,2025-11-02,Initial Contact,214000,2026-03-19,,Open,
+O0329,I0329,Rep 01,Conference,2026-04-07,Negotiation,178000,2026-07-01,,Open,
+O0330,I0330,Rep 02,Referral,2026-02-07,Prospect Identified,377000,2026-06-12,,Open,
+O0331,I0331,Rep 03,Outbound research,2026-03-18,Prospect Identified,270000,2026-07-25,,Open,
+O0332,I0332,Rep 04,Webinar,2025-11-30,Closed Lost,343000,2026-02-18,2025-12-15,Lost,No strategic fit
+O0333,I0333,Rep 05,Referral,2025-12-09,Qualified,260000,2026-03-05,,Open,
+O0334,I0334,Rep 06,Conference,2026-03-27,Negotiation,224000,2026-06-23,,Open,
+O0335,I0335,Rep 07,Inbound enquiry,2026-06-04,Closed Lost,348000,2026-08-30,2026-07-19,Lost,No strategic fit
+O0336,I0336,Rep 08,Inbound enquiry,2026-02-11,Proposal Sent,220000,2026-06-09,,Open,
+O0337,I0337,Rep 01,Webinar,2025-12-16,Proposal Sent,287000,2026-05-03,,Open,
+O0338,I0338,Rep 02,Outbound research,2026-03-30,Qualified,243000,2026-07-30,,Open,
+O0339,I0339,Rep 03,Referral,2026-02-26,Closed Lost,182000,2026-06-14,2026-05-29,Lost,Procurement delay
+O0340,I0340,Rep 04,Webinar,2025-10-06,Proposal Sent,1209000,2026-02-04,,Open,
+O0341,I0341,Rep 05,Conference,2026-04-08,Closed Won,650000,2026-07-09,2026-07-16,Won,Campaign scope agreed
+O0342,I0342,Rep 06,Inbound enquiry,2026-06-01,Proposal Sent,175000,2026-10-26,,Open,
+O0343,I0343,Rep 07,Webinar,2026-09-04,Qualified,353000,2026-12-29,,Open,
+O0344,I0344,Rep 08,Conference,2026-05-17,Closed Lost,403000,2026-09-01,2026-06-08,Lost,Competitor selected
+O0345,I0345,Rep 01,Outbound research,2026-04-20,Prospect Identified,241000,2026-08-09,,Open,
+O0346,I0346,Rep 02,Referral,2026-03-28,Proposal Sent,266000,2026-06-30,,Open,
+O0347,I0347,Rep 03,Referral,2026-01-14,Initial Contact,1003000,2026-04-25,,Open,
+O0348,I0348,Rep 04,Referral,2025-11-01,Initial Contact,121000,2026-02-27,,Open,
+O0349,I0349,Rep 05,Inbound enquiry,2026-01-04,Prospect Identified,1119000,2026-05-10,,Open,
+O0350,I0350,Rep 06,Outbound research,2026-09-23,Prospect Identified,153000,2027-01-04,,Open,
+O0351,I0351,Rep 07,Inbound enquiry,2026-04-30,Meeting Scheduled,789000,2026-08-05,,Open,
+O0352,I0352,Rep 08,Inbound enquiry,2026-05-22,Closed Lost,375000,2026-08-30,2026-06-10,Lost,Procurement delay
+O0353,I0353,Rep 01,Inbound enquiry,2025-10-11,Closed Won,193000,2026-01-04,2026-02-20,Won,Campaign scope agreed
+O0354,I0354,Rep 02,Referral,2025-11-08,Prospect Identified,122000,2026-04-04,,Open,
+O0355,I0355,Rep 03,Referral,2026-07-27,Initial Contact,336000,2026-12-23,,Open,
+O0356,I0356,Rep 04,Outbound research,2026-01-08,Closed Lost,523000,2026-05-03,2026-02-19,Lost,Competitor selected
+O0357,I0357,Rep 05,Inbound enquiry,2026-06-19,Closed Lost,345000,2026-09-30,2026-09-21,Lost,No strategic fit
+O0358,I0358,Rep 06,Conference,2026-08-31,Closed Lost,742000,2026-12-09,2026-09-30,Lost,Competitor selected
+O0359,I0359,Rep 07,Conference,2026-06-12,Prospect Identified,171000,2026-10-05,,Open,
+O0360,I0360,Rep 08,Inbound enquiry,2026-09-17,Prospect Identified,132000,2027-02-01,,Open,
+O0361,I0361,Rep 01,Conference,2026-02-28,Closed Lost,1067000,2026-07-01,2026-03-21,Lost,No strategic fit
+O0362,I0362,Rep 02,Webinar,2025-12-05,Prospect Identified,90000,2026-04-07,,Open,
+O0363,I0363,Rep 03,Referral,2026-09-17,Qualified,355000,2027-02-12,,Open,
+O0364,I0364,Rep 04,Webinar,2026-01-14,Closed Lost,249000,2026-04-16,2026-05-13,Lost,Budget unavailable
+O0365,I0365,Rep 05,Inbound enquiry,2026-07-26,Proposal Sent,385000,2026-11-24,,Open,
+O0366,I0366,Rep 06,Referral,2025-11-20,Closed Lost,106000,2026-03-14,2026-01-23,Lost,Procurement delay
+O0367,I0367,Rep 07,Referral,2025-10-01,Closed Lost,121000,2025-12-29,2026-01-24,Lost,Budget unavailable
+O0368,I0368,Rep 08,Webinar,2026-02-02,Closed Lost,172000,2026-05-28,2026-03-01,Lost,No strategic fit
+O0369,I0369,Rep 01,Referral,2025-10-11,Closed Lost,186000,2026-02-20,2025-10-27,Lost,Competitor selected
+O0370,I0370,Rep 02,Inbound enquiry,2026-08-16,Initial Contact,117000,2026-12-01,,Open,
+O0371,I0371,Rep 03,Webinar,2025-10-03,Initial Contact,372000,2026-02-20,,Open,
+O0372,I0372,Rep 04,Inbound enquiry,2026-01-05,Qualified,436000,2026-05-19,,Open,
+O0373,I0373,Rep 05,Inbound enquiry,2026-09-18,Qualified,193000,2027-01-28,,Open,
+O0374,I0374,Rep 06,Outbound research,2025-11-29,Initial Contact,137000,2026-04-01,,Open,
+O0375,I0375,Rep 07,Outbound research,2026-05-05,Closed Lost,701000,2026-09-14,2026-07-21,Lost,Budget unavailable
+O0376,I0376,Rep 08,Referral,2026-04-14,Closed Won,401000,2026-07-04,2026-08-16,Won,Campaign scope agreed
+O0377,I0377,Rep 01,Referral,2026-04-14,Prospect Identified,100000,2026-08-14,,Open,
+O0378,I0378,Rep 02,Outbound research,2026-01-08,Proposal Sent,147000,2026-05-04,,Open,
+O0379,I0379,Rep 03,Referral,2026-09-23,Prospect Identified,365000,2027-02-14,,Open,
+O0380,I0380,Rep 04,Inbound enquiry,2026-01-21,Closed Won,836000,2026-05-04,2026-07-07,Won,Campaign scope agreed
+O0381,I0381,Rep 05,Referral,2026-09-30,Prospect Identified,122000,2027-02-18,,Open,
+O0382,I0382,Rep 06,Conference,2025-11-25,Closed Lost,654000,2026-03-06,2026-03-25,Lost,Procurement delay
+O0383,I0383,Rep 07,Outbound research,2026-09-15,Qualified,158000,2026-12-10,,Open,
+O0384,I0384,Rep 08,Referral,2025-11-17,Qualified,318000,2026-03-30,,Open,
+O0385,I0385,Rep 01,Outbound research,2026-02-02,Prospect Identified,130000,2026-05-24,,Open,
+O0386,I0386,Rep 02,Webinar,2026-09-05,Prospect Identified,275000,2026-12-24,,Open,
+O0387,I0387,Rep 03,Conference,2026-05-23,Meeting Scheduled,138000,2026-10-07,,Open,
+O0388,I0388,Rep 04,Outbound research,2026-03-17,Qualified,182000,2026-06-10,,Open,
+O0389,I0389,Rep 05,Referral,2026-05-11,Prospect Identified,208000,2026-09-01,,Open,
+O0390,I0390,Rep 06,Conference,2025-11-10,Closed Lost,362000,2026-02-08,2025-11-23,Lost,Procurement delay
+O0391,I0391,Rep 07,Webinar,2025-11-26,Prospect Identified,741000,2026-02-15,,Open,
+O0392,I0392,Rep 08,Webinar,2026-02-05,Closed Won,245000,2026-05-23,2026-07-11,Won,Campaign scope agreed
+O0393,I0393,Rep 01,Conference,2026-07-17,Proposal Sent,127000,2026-11-11,,Open,
+O0394,I0394,Rep 02,Webinar,2025-10-15,Initial Contact,182000,2026-03-14,,Open,
+O0395,I0395,Rep 03,Conference,2025-11-02,Closed Lost,375000,2026-03-04,2026-01-04,Lost,No strategic fit
+O0396,I0396,Rep 04,Conference,2025-11-14,Closed Lost,279000,2026-03-22,2025-12-07,Lost,Budget unavailable
+O0397,I0397,Rep 05,Inbound enquiry,2026-02-24,Qualified,714000,2026-06-04,,Open,
+O0398,I0398,Rep 06,Conference,2025-11-04,Closed Lost,294000,2026-02-19,2026-02-16,Lost,Procurement delay
+O0399,I0399,Rep 07,Outbound research,2026-05-10,Prospect Identified,379000,2026-08-11,,Open,
+O0400,I0400,Rep 08,Webinar,2025-11-27,Initial Contact,270000,2026-03-21,,Open,
+O0401,I0401,Rep 01,Inbound enquiry,2025-10-29,Initial Contact,153000,2026-03-09,,Open,
+O0402,I0402,Rep 02,Outbound research,2026-07-16,Meeting Scheduled,157000,2026-11-09,,Open,
+O0403,I0403,Rep 03,Outbound research,2025-11-09,Prospect Identified,111000,2026-04-05,,Open,
+O0404,I0404,Rep 04,Referral,2026-03-03,Closed Won,212000,2026-06-19,2026-07-14,Won,Campaign scope agreed
+O0405,I0405,Rep 05,Conference,2026-04-15,Closed Lost,199000,2026-09-07,2026-06-14,Lost,Competitor selected
+O0406,I0406,Rep 06,Outbound research,2026-02-14,Closed Won,174000,2026-07-01,2026-07-04,Won,Campaign scope agreed
+O0407,I0407,Rep 07,Inbound enquiry,2026-05-09,Qualified,265000,2026-07-31,,Open,
+O0408,I0408,Rep 08,Conference,2025-10-26,Closed Lost,188000,2026-03-12,2025-12-09,Lost,Budget unavailable
+O0409,I0409,Rep 01,Conference,2026-05-16,Initial Contact,255000,2026-08-25,,Open,
+O0410,I0410,Rep 02,Outbound research,2026-06-30,Closed Lost,203000,2026-10-29,2026-07-06,Lost,Procurement delay
+O0411,I0411,Rep 03,Webinar,2026-02-13,Prospect Identified,200000,2026-06-27,,Open,
+O0412,I0412,Rep 04,Outbound research,2026-07-03,Negotiation,162000,2026-11-27,,Open,
+O0413,I0413,Rep 05,Webinar,2025-10-09,Closed Won,258000,2026-02-02,2026-04-01,Won,Campaign scope agreed
+O0414,I0414,Rep 06,Referral,2025-11-10,Meeting Scheduled,139000,2026-02-14,,Open,
+O0415,I0415,Rep 07,Outbound research,2026-06-16,Prospect Identified,296000,2026-09-26,,Open,
+O0416,I0416,Rep 08,Conference,2026-08-26,Qualified,410000,2026-12-29,,Open,
+O0417,I0417,Rep 01,Referral,2026-01-05,Prospect Identified,93000,2026-05-28,,Open,
+O0418,I0418,Rep 02,Conference,2025-12-05,Closed Lost,246000,2026-03-11,2025-12-29,Lost,Budget unavailable
+O0419,I0419,Rep 03,Referral,2026-05-13,Qualified,136000,2026-09-08,,Open,
+O0420,I0420,Rep 04,Conference,2026-08-21,Initial Contact,233000,2026-12-02,,Open,
+O0421,I0421,Rep 05,Conference,2026-02-15,Closed Lost,312000,2026-05-18,2026-04-17,Lost,Budget unavailable
+O0422,I0422,Rep 06,Inbound enquiry,2026-03-28,Closed Lost,186000,2026-06-30,2026-07-26,Lost,No strategic fit
+O0423,I0423,Rep 07,Inbound enquiry,2026-05-18,Prospect Identified,343000,2026-08-31,,Open,
+O0424,I0424,Rep 08,Webinar,2026-03-12,Prospect Identified,335000,2026-07-28,,Open,
+O0425,I0425,Rep 01,Outbound research,2025-12-19,Qualified,210000,2026-03-10,,Open,
+O0426,I0426,Rep 02,Inbound enquiry,2025-12-06,Initial Contact,1223000,2026-05-02,,Open,
+O0427,I0427,Rep 03,Outbound research,2026-08-27,Closed Lost,126000,2026-12-13,2026-09-08,Lost,Competitor selected
+O0428,I0428,Rep 04,Inbound enquiry,2026-03-29,Closed Lost,292000,2026-06-22,2026-07-14,Lost,Budget unavailable
+O0429,I0429,Rep 05,Inbound enquiry,2026-03-01,Closed Won,203000,2026-06-28,2026-07-05,Won,Campaign scope agreed
+O0430,I0430,Rep 06,Webinar,2026-08-03,Prospect Identified,335000,2026-11-25,,Open,
+O0431,I0431,Rep 07,Outbound research,2025-11-14,Initial Contact,179000,2026-03-31,,Open,
+O0432,I0432,Rep 08,Outbound research,2026-06-16,Meeting Scheduled,197000,2026-09-25,,Open,
+O0433,I0433,Rep 01,Outbound research,2026-09-16,Qualified,191000,2026-12-06,,Open,
+O0434,I0434,Rep 02,Webinar,2025-11-08,Closed Lost,280000,2026-03-08,2025-11-16,Lost,Budget unavailable
+O0435,I0435,Rep 03,Referral,2026-01-15,Meeting Scheduled,88000,2026-05-14,,Open,
+O0436,I0436,Rep 04,Outbound research,2026-05-17,Qualified,255000,2026-10-08,,Open,
+O0437,I0437,Rep 05,Webinar,2026-02-26,Qualified,109000,2026-07-24,,Open,
+O0438,I0438,Rep 06,Inbound enquiry,2026-09-11,Prospect Identified,523000,2027-01-14,,Open,
+O0439,I0439,Rep 07,Outbound research,2026-07-07,Initial Contact,280000,2026-10-02,,Open,
+O0440,I0440,Rep 08,Outbound research,2026-03-02,Closed Lost,155000,2026-07-25,2026-04-12,Lost,Procurement delay
+O0441,I0441,Rep 01,Outbound research,2026-01-30,Meeting Scheduled,268000,2026-05-23,,Open,
+O0442,I0442,Rep 02,Outbound research,2026-06-12,Prospect Identified,97000,2026-10-06,,Open,
+O0443,I0443,Rep 03,Referral,2026-03-05,Negotiation,410000,2026-07-01,,Open,
+O0444,I0444,Rep 04,Outbound research,2026-07-23,Prospect Identified,182000,2026-11-20,,Open,
+O0445,I0445,Rep 05,Conference,2026-03-09,Prospect Identified,293000,2026-06-21,,Open,
+O0446,I0446,Rep 06,Inbound enquiry,2025-11-18,Closed Lost,930000,2026-02-28,2025-12-06,Lost,Budget unavailable
+O0447,I0447,Rep 07,Inbound enquiry,2026-04-15,Negotiation,119000,2026-08-21,,Open,
+O0448,I0448,Rep 08,Webinar,2025-12-29,Closed Lost,246000,2026-05-15,2026-04-07,Lost,No strategic fit
+O0449,I0449,Rep 01,Webinar,2026-08-19,Prospect Identified,208000,2026-11-13,,Open,
+O0450,I0450,Rep 02,Webinar,2026-07-01,Prospect Identified,336000,2026-09-19,,Open,
+O0451,I0451,Rep 03,Outbound research,2026-07-10,Proposal Sent,145000,2026-11-27,,Open,
+O0452,I0452,Rep 04,Referral,2026-02-13,Closed Won,88000,2026-05-20,2026-06-08,Won,Campaign scope agreed
+O0453,I0453,Rep 05,Outbound research,2026-09-12,Qualified,336000,2026-12-17,,Open,
+O0454,I0454,Rep 06,Outbound research,2025-11-16,Qualified,308000,2026-02-19,,Open,
+O0455,I0455,Rep 07,Conference,2026-05-21,Closed Lost,119000,2026-09-05,2026-06-06,Lost,Budget unavailable
+O0456,I0456,Rep 08,Referral,2025-10-01,Prospect Identified,142000,2026-01-13,,Open,
+O0457,I0457,Rep 01,Webinar,2026-08-11,Closed Lost,398000,2026-12-27,2026-09-26,Lost,Competitor selected
+O0458,I0458,Rep 02,Webinar,2026-03-30,Meeting Scheduled,142000,2026-08-02,,Open,
+O0459,I0459,Rep 03,Conference,2026-04-29,Proposal Sent,746000,2026-08-31,,Open,
+O0460,I0460,Rep 04,Webinar,2026-02-04,Qualified,183000,2026-06-30,,Open,
+O0461,I0461,Rep 05,Inbound enquiry,2026-08-14,Initial Contact,375000,2026-11-15,,Open,
+O0462,I0462,Rep 06,Outbound research,2026-08-19,Initial Contact,175000,2026-12-08,,Open,
+O0463,I0463,Rep 07,Conference,2025-11-22,Closed Lost,128000,2026-02-25,2026-02-25,Lost,No strategic fit
+O0464,I0464,Rep 08,Outbound research,2025-10-06,Closed Lost,224000,2026-02-24,2026-01-27,Lost,No strategic fit
+O0465,I0465,Rep 01,Conference,2025-10-02,Closed Lost,188000,2026-01-30,2025-10-18,Lost,No strategic fit
+O0466,I0466,Rep 02,Referral,2026-09-12,Qualified,288000,2027-02-02,,Open,
+O0467,I0467,Rep 03,Inbound enquiry,2025-10-11,Initial Contact,275000,2026-02-17,,Open,
+O0468,I0468,Rep 04,Inbound enquiry,2026-04-26,Closed Lost,356000,2026-09-14,2026-09-05,Lost,Competitor selected
+O0469,I0469,Rep 05,Outbound research,2026-09-12,Prospect Identified,216000,2026-12-08,,Open,
+O0470,I0470,Rep 06,Webinar,2026-06-21,Qualified,202000,2026-11-08,,Open,
+O0471,I0471,Rep 07,Conference,2025-12-14,Qualified,126000,2026-05-03,,Open,
+O0472,I0472,Rep 08,Inbound enquiry,2026-09-29,Prospect Identified,128000,2027-01-08,,Open,
+O0473,I0473,Rep 01,Webinar,2026-06-01,Closed Lost,104000,2026-10-08,2026-06-25,Lost,Procurement delay
+O0474,I0474,Rep 02,Inbound enquiry,2026-03-13,Qualified,248000,2026-06-11,,Open,
+O0475,I0475,Rep 03,Inbound enquiry,2026-01-13,Qualified,451000,2026-04-14,,Open,
+O0476,I0476,Rep 04,Outbound research,2026-08-07,Closed Lost,545000,2026-12-21,2026-08-19,Lost,Budget unavailable
+O0477,I0477,Rep 05,Outbound research,2026-02-22,Meeting Scheduled,125000,2026-05-18,,Open,
+O0478,I0478,Rep 06,Conference,2026-02-06,Prospect Identified,623000,2026-06-23,,Open,
+O0479,I0479,Rep 07,Inbound enquiry,2025-12-07,Meeting Scheduled,104000,2026-05-06,,Open,
+O0480,I0480,Rep 08,Inbound enquiry,2025-11-14,Closed Lost,126000,2026-03-31,2026-03-16,Lost,Budget unavailable
+O0481,I0481,Rep 01,Conference,2026-01-18,Qualified,317000,2026-05-23,,Open,
+O0482,I0482,Rep 02,Inbound enquiry,2025-10-15,Closed Lost,365000,2026-01-20,2025-12-07,Lost,Budget unavailable
+O0483,I0483,Rep 03,Referral,2025-12-18,Closed Lost,221000,2026-03-27,2026-02-19,Lost,Budget unavailable
+O0484,I0484,Rep 04,Referral,2026-05-12,Closed Won,531000,2026-08-03,2026-08-18,Won,Campaign scope agreed
+O0485,I0485,Rep 05,Referral,2026-07-08,Qualified,353000,2026-11-09,,Open,
+O0486,I0486,Rep 06,Inbound enquiry,2025-10-05,Qualified,687000,2026-02-28,,Open,
+O0487,I0487,Rep 07,Webinar,2025-12-03,Prospect Identified,220000,2026-05-01,,Open,
+O0488,I0488,Rep 08,Referral,2026-05-19,Closed Lost,274000,2026-08-18,2026-08-16,Lost,Procurement delay
+O0489,I0489,Rep 01,Referral,2026-01-23,Closed Lost,115000,2026-06-07,2026-01-30,Lost,Budget unavailable
+O0490,I0490,Rep 02,Outbound research,2025-12-27,Closed Lost,236000,2026-04-16,2026-03-13,Lost,Budget unavailable
+O0491,I0491,Rep 03,Webinar,2026-03-02,Closed Lost,107000,2026-05-28,2026-04-26,Lost,Budget unavailable
+O0492,I0492,Rep 04,Referral,2026-04-06,Closed Lost,266000,2026-08-28,2026-07-06,Lost,Procurement delay
+O0493,I0493,Rep 05,Outbound research,2026-06-09,Closed Lost,264000,2026-10-02,2026-08-18,Lost,Budget unavailable
+O0494,I0494,Rep 06,Inbound enquiry,2026-03-26,Closed Won,205000,2026-07-23,2026-06-29,Won,Campaign scope agreed
+O0495,I0495,Rep 07,Outbound research,2026-01-16,Closed Lost,113000,2026-05-23,2026-02-17,Lost,Budget unavailable
+O0496,I0496,Rep 08,Referral,2026-07-27,Closed Lost,333000,2026-11-26,2026-09-24,Lost,No strategic fit
+O0497,I0497,Rep 01,Outbound research,2026-01-10,Closed Lost,259000,2026-05-26,2026-01-31,Lost,Competitor selected
+O0498,I0498,Rep 02,Referral,2025-11-07,Closed Won,192000,2026-02-04,2026-04-02,Won,Campaign scope agreed
+O0499,I0499,Rep 03,Referral,2025-10-26,Closed Won,414000,2026-03-14,2026-03-10,Won,Campaign scope agreed
+O0500,I0500,Rep 04,Inbound enquiry,2026-07-12,Qualified,102000,2026-10-06,,Open,
+O0501,I0501,Rep 05,Referral,2026-07-23,Prospect Identified,156000,2026-12-11,,Open,
+O0502,I0502,Rep 06,Webinar,2026-01-23,Prospect Identified,98000,2026-04-17,,Open,
+O0503,I0503,Rep 07,Referral,2026-07-26,Qualified,157000,2026-12-01,,Open,
+O0504,I0504,Rep 08,Conference,2025-10-28,Closed Lost,278000,2026-03-08,2026-01-04,Lost,Procurement delay
+O0505,I0505,Rep 01,Outbound research,2026-08-24,Qualified,641000,2026-12-26,,Open,
+O0506,I0506,Rep 02,Conference,2025-12-09,Prospect Identified,169000,2026-04-08,,Open,
+O0507,I0507,Rep 03,Inbound enquiry,2026-01-20,Closed Lost,602000,2026-06-14,2026-02-13,Lost,Procurement delay
+O0508,I0508,Rep 04,Webinar,2026-06-08,Meeting Scheduled,103000,2026-10-08,,Open,
+O0509,I0509,Rep 05,Conference,2026-03-22,Initial Contact,178000,2026-08-19,,Open,
+O0510,I0510,Rep 06,Inbound enquiry,2025-11-28,Closed Won,225000,2026-03-03,2026-04-06,Won,Campaign scope agreed
+O0511,I0511,Rep 07,Inbound enquiry,2026-09-27,Prospect Identified,189000,2027-01-13,,Open,
+O0512,I0512,Rep 08,Webinar,2026-01-31,Meeting Scheduled,251000,2026-06-01,,Open,
+O0513,I0513,Rep 01,Outbound research,2026-04-04,Initial Contact,213000,2026-08-31,,Open,
+O0514,I0514,Rep 02,Outbound research,2026-04-26,Closed Lost,272000,2026-08-31,2026-06-13,Lost,Budget unavailable
+O0515,I0515,Rep 03,Webinar,2026-09-18,Prospect Identified,190000,2027-01-19,,Open,
+O0516,I0516,Rep 04,Conference,2026-08-25,Meeting Scheduled,280000,2026-12-02,,Open,
+O0517,I0517,Rep 05,Webinar,2026-06-06,Closed Lost,763000,2026-09-24,2026-08-10,Lost,No strategic fit
+O0518,I0518,Rep 06,Referral,2026-05-10,Closed Won,190000,2026-08-27,2026-09-08,Won,Campaign scope agreed
+O0519,I0519,Rep 07,Inbound enquiry,2026-06-22,Proposal Sent,282000,2026-11-11,,Open,
+O0520,I0520,Rep 08,Conference,2026-03-22,Qualified,237000,2026-06-15,,Open,
+O0521,I0521,Rep 01,Inbound enquiry,2026-04-30,Closed Lost,191000,2026-08-05,2026-09-10,Lost,Budget unavailable
+O0522,I0522,Rep 02,Webinar,2026-05-02,Initial Contact,210000,2026-09-23,,Open,
+O0523,I0523,Rep 03,Referral,2026-08-06,Meeting Scheduled,134000,2026-11-05,,Open,
+O0524,I0524,Rep 04,Outbound research,2026-07-21,Prospect Identified,635000,2026-11-03,,Open,
+O0525,I0525,Rep 05,Conference,2026-03-08,Prospect Identified,119000,2026-07-25,,Open,
+O0526,I0526,Rep 06,Outbound research,2025-10-09,Closed Won,336000,2026-01-11,2026-02-21,Won,Campaign scope agreed
+O0527,I0527,Rep 07,Inbound enquiry,2025-10-19,Qualified,134000,2026-02-03,,Open,
+O0528,I0528,Rep 08,Conference,2025-12-18,Closed Lost,119000,2026-05-15,2025-12-25,Lost,Budget unavailable
+O0529,I0529,Rep 01,Inbound enquiry,2026-03-03,Closed Won,148000,2026-06-07,2026-07-17,Won,Campaign scope agreed
+O0530,I0530,Rep 02,Referral,2026-05-05,Prospect Identified,146000,2026-09-05,,Open,
+O0531,I0531,Rep 03,Webinar,2026-02-20,Closed Lost,294000,2026-06-04,2026-05-11,Lost,Procurement delay
+O0532,I0532,Rep 04,Webinar,2025-11-02,Closed Won,318000,2026-02-10,2026-03-20,Won,Campaign scope agreed
+O0533,I0533,Rep 05,Webinar,2026-04-17,Closed Lost,299000,2026-08-22,2026-07-15,Lost,Budget unavailable
+O0534,I0534,Rep 06,Referral,2025-10-10,Initial Contact,86000,2026-02-26,,Open,
+O0535,I0535,Rep 07,Referral,2026-03-26,Closed Lost,529000,2026-08-19,2026-05-06,Lost,Budget unavailable
+O0536,I0536,Rep 08,Webinar,2026-01-17,Prospect Identified,206000,2026-05-20,,Open,
+O0537,I0537,Rep 01,Referral,2026-02-17,Proposal Sent,938000,2026-05-27,,Open,
+O0538,I0538,Rep 02,Webinar,2026-02-20,Initial Contact,272000,2026-06-19,,Open,
+O0539,I0539,Rep 03,Inbound enquiry,2026-07-22,Initial Contact,197000,2026-10-11,,Open,
+O0540,I0540,Rep 04,Inbound enquiry,2025-11-16,Proposal Sent,231000,2026-02-27,,Open,
+O0541,I0541,Rep 05,Referral,2026-01-31,Proposal Sent,174000,2026-04-21,,Open,
+O0542,I0542,Rep 06,Referral,2026-05-14,Qualified,201000,2026-08-26,,Open,
+O0543,I0543,Rep 07,Inbound enquiry,2026-09-23,Prospect Identified,421000,2026-12-16,,Open,
+O0544,I0544,Rep 08,Referral,2026-04-07,Closed Won,447000,2026-08-04,2026-08-22,Won,Campaign scope agreed
+O0545,I0545,Rep 01,Conference,2025-11-21,Closed Lost,279000,2026-04-19,2026-02-05,Lost,Budget unavailable
+O0546,I0546,Rep 02,Referral,2025-12-25,Negotiation,142000,2026-04-06,,Open,
+O0547,I0547,Rep 03,Webinar,2026-09-23,Prospect Identified,286000,2027-02-13,,Open,
+O0548,I0548,Rep 04,Conference,2026-09-24,Prospect Identified,317000,2027-01-15,,Open,
+O0549,I0549,Rep 05,Referral,2026-03-04,Meeting Scheduled,274000,2026-06-13,,Open,
+O0550,I0550,Rep 06,Inbound enquiry,2026-04-15,Proposal Sent,253000,2026-07-05,,Open,
+O0551,I0551,Rep 07,Outbound research,2026-02-08,Prospect Identified,127000,2026-05-10,,Open,
+O0552,I0552,Rep 08,Conference,2026-04-07,Closed Lost,148000,2026-08-21,2026-06-02,Lost,No strategic fit
+O0553,I0553,Rep 01,Outbound research,2026-06-26,Prospect Identified,370000,2026-09-26,,Open,
+O0554,I0554,Rep 02,Conference,2026-08-25,Closed Lost,278000,2027-01-16,2026-09-24,Lost,Procurement delay
+O0555,I0555,Rep 03,Conference,2026-08-18,Prospect Identified,398000,2026-12-23,,Open,
+O0556,I0556,Rep 04,Inbound enquiry,2026-06-03,Closed Lost,687000,2026-09-28,2026-06-30,Lost,No strategic fit
+O0557,I0557,Rep 05,Webinar,2026-03-13,Closed Won,301000,2026-06-27,2026-07-18,Won,Campaign scope agreed
+O0558,I0558,Rep 06,Conference,2025-10-06,Meeting Scheduled,261000,2026-01-29,,Open,
+O0559,I0559,Rep 07,Inbound enquiry,2025-10-12,Qualified,985000,2026-01-09,,Open,
+O0560,I0560,Rep 08,Referral,2026-08-23,Qualified,277000,2026-11-24,,Open,
+O0561,I0561,Rep 01,Outbound research,2026-09-23,Qualified,312000,2026-12-23,,Open,
+O0562,I0562,Rep 02,Conference,2026-01-16,Closed Lost,148000,2026-05-04,2026-03-29,Lost,Procurement delay
+O0563,I0563,Rep 03,Conference,2025-12-11,Closed Won,127000,2026-03-28,2026-02-27,Won,Campaign scope agreed
+O0564,I0564,Rep 04,Inbound enquiry,2025-10-30,Proposal Sent,261000,2026-02-23,,Open,
+O0565,I0565,Rep 05,Inbound enquiry,2025-11-10,Closed Lost,374000,2026-02-19,2026-03-25,Lost,Budget unavailable
+O0566,I0566,Rep 06,Outbound research,2026-08-06,Initial Contact,216000,2026-12-07,,Open,
+O0567,I0567,Rep 07,Conference,2026-04-16,Closed Lost,898000,2026-07-17,2026-06-22,Lost,Budget unavailable
+O0568,I0568,Rep 08,Referral,2026-04-26,Proposal Sent,191000,2026-08-09,,Open,
+O0569,I0569,Rep 01,Referral,2026-05-01,Closed Won,89000,2026-09-13,2026-09-15,Won,Campaign scope agreed
+O0570,I0570,Rep 02,Outbound research,2026-04-08,Closed Lost,215000,2026-07-04,2026-05-11,Lost,Procurement delay
+O0571,I0571,Rep 03,Referral,2026-01-01,Initial Contact,1087000,2026-04-24,,Open,
+O0572,I0572,Rep 04,Conference,2026-09-20,Prospect Identified,355000,2027-01-31,,Open,
+O0573,I0573,Rep 05,Referral,2026-09-15,Prospect Identified,118000,2027-01-03,,Open,
+O0574,I0574,Rep 06,Referral,2026-05-02,Qualified,161000,2026-09-29,,Open,
+O0575,I0575,Rep 07,Webinar,2026-06-27,Prospect Identified,678000,2026-11-18,,Open,
+O0576,I0576,Rep 08,Conference,2026-03-11,Closed Lost,266000,2026-06-14,2026-04-06,Lost,Procurement delay
+O0577,I0577,Rep 01,Conference,2026-02-14,Qualified,184000,2026-06-02,,Open,
+O0578,I0578,Rep 02,Inbound enquiry,2026-05-12,Proposal Sent,293000,2026-09-07,,Open,
+O0579,I0579,Rep 03,Referral,2026-07-14,Closed Lost,215000,2026-10-12,2026-08-07,Lost,Budget unavailable
+O0580,I0580,Rep 04,Referral,2026-04-12,Closed Lost,205000,2026-09-05,2026-05-13,Lost,No strategic fit
+O0581,I0581,Rep 05,Inbound enquiry,2026-06-14,Qualified,95000,2026-10-04,,Open,
+O0582,I0582,Rep 06,Outbound research,2025-12-23,Closed Lost,97000,2026-03-17,2026-01-17,Lost,Competitor selected
+O0583,I0583,Rep 07,Webinar,2025-10-26,Qualified,244000,2026-02-15,,Open,
+O0584,I0584,Rep 08,Outbound research,2026-07-27,Meeting Scheduled,351000,2026-11-15,,Open,
+O0585,I0585,Rep 01,Inbound enquiry,2026-03-27,Negotiation,309000,2026-08-17,,Open,
+O0586,I0586,Rep 02,Referral,2026-07-07,Prospect Identified,265000,2026-10-05,,Open,
+O0587,I0587,Rep 03,Webinar,2025-10-18,Initial Contact,128000,2026-03-16,,Open,
+O0588,I0588,Rep 04,Conference,2025-11-06,Initial Contact,148000,2026-03-13,,Open,
+O0589,I0589,Rep 05,Webinar,2026-09-18,Prospect Identified,180000,2027-01-06,,Open,
+O0590,I0590,Rep 06,Outbound research,2026-07-23,Qualified,89000,2026-11-04,,Open,
+O0591,I0591,Rep 07,Conference,2026-07-18,Proposal Sent,225000,2026-11-03,,Open,
+O0592,I0592,Rep 08,Webinar,2026-08-16,Meeting Scheduled,156000,2026-12-19,,Open,
+O0593,I0593,Rep 01,Conference,2026-01-26,Prospect Identified,231000,2026-05-20,,Open,
+O0594,I0594,Rep 02,Conference,2025-10-26,Closed Lost,390000,2026-02-04,2026-01-26,Lost,No strategic fit
+O0595,I0595,Rep 03,Conference,2025-10-01,Meeting Scheduled,200000,2026-01-31,,Open,
+O0596,I0596,Rep 04,Referral,2025-12-09,Closed Won,841000,2026-04-14,2026-04-20,Won,Campaign scope agreed
+O0597,I0597,Rep 05,Webinar,2025-10-23,Closed Lost,183000,2026-03-07,2026-01-23,Lost,Procurement delay
+O0598,I0598,Rep 06,Webinar,2026-08-08,Closed Lost,155000,2026-12-06,2026-09-24,Lost,Competitor selected
+O0599,I0599,Rep 07,Webinar,2026-05-12,Closed Lost,252000,2026-08-15,2026-06-08,Lost,Budget unavailable
+O0600,I0600,Rep 08,Inbound enquiry,2026-08-02,Meeting Scheduled,265000,2026-11-13,,Open,
