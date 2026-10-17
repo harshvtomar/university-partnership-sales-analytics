@@ -46,8 +46,9 @@ Institutions 1 → many opportunities; opportunities 1 → many activities and s
 ## Documentation and deliverables
 
 - [KPI definitions](docs/KPI_DEFINITIONS.md), [data dictionary](docs/DATA_DICTIONARY.md), [scoring methodology](docs/SCORING.md), [source investigation](docs/SOURCES.md)
-- `reports/`: Excel workbook, leadership presentation, partnership proposal and sales review
-- `screenshots/`: captures of the actual dashboard where available
+- [Excel workbook](reports/Partnership_Analytics.xlsx), [leadership presentation](reports/Management_Strategy.pdf), [partnership proposal](reports/Institutional_Partnership_Proposal.pdf) and [sales review](reports/Sales_Performance_Review.pdf)
+- 28 automated tests passed, including workbook reconciliation; [test output](reports/test_results.txt)
+- Dashboard screenshots pending public deployment. Public hosting requires account sign-in; no live application URL is claimed. `screenshots/GitHub_Repository.png` records the published repository, not the dashboard.
 - [Interview guide and resume entry](docs/INTERVIEW_GUIDE.md)
 - [Verification and deployment checkpoint](docs/DELIVERY_STATUS.md)
 

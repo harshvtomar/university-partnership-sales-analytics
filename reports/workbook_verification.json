@@ -1,0 +1,13 @@
+{
+  "checks": {
+    "pipeline": 109230000,
+    "bookings": 16886000,
+    "recognized": 5736156.170000001,
+    "base": 4911800
+  },
+  "sensitivity": {
+    "multiplier": 1.2,
+    "base": 5894160
+  },
+  "engine": "Artifact Tool; native Excel not opened"
+}
