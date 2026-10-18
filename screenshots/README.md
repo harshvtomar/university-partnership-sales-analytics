@@ -1,3 +1,3 @@
-# Screenshot status
+# Real application screenshots
 
-Real dashboard screenshots are pending hosted browser verification. Streamlit automated page tests passed, but the local browser preview could not be reached. No mock screenshot is substituted. After deployment capture Executive Overview, Lead Intelligence and Revenue Forecasting at desktop size, plus a narrow-screen navigation check.
+Executive_Overview.png and Lead_Intelligence.png were captured from the deployed Streamlit application on 18 October 2026 and visually inspected. These are actual UI captures, not generated mockups. Lead_Intelligence shows an Ahmedabad search. GitHub_Repository.png is the earlier repository publication evidence, not a dashboard screenshot.

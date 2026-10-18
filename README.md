@@ -4,6 +4,10 @@
 
 **All institutions, representatives, commercial values and transactions are simulated.** No KollegeApply affiliation or real commercial result is claimed.
 
+[Open the live interactive dashboard](https://university-partnership-sales-analytics.streamlit.app/)
+
+![Live Executive Overview](screenshots/Executive_Overview.png)
+
 ## Quick start
 
 Python 3.12 recommended.
@@ -48,7 +52,7 @@ Institutions 1 → many opportunities; opportunities 1 → many activities and s
 - [KPI definitions](docs/KPI_DEFINITIONS.md), [data dictionary](docs/DATA_DICTIONARY.md), [scoring methodology](docs/SCORING.md), [source investigation](docs/SOURCES.md)
 - [Excel workbook](reports/Partnership_Analytics.xlsx), [leadership presentation](reports/Management_Strategy.pdf), [partnership proposal](reports/Institutional_Partnership_Proposal.pdf) and [sales review](reports/Sales_Performance_Review.pdf)
 - 28 automated tests passed, including workbook reconciliation; [test output](reports/test_results.txt)
-- Dashboard screenshots pending public deployment. Public hosting requires account sign-in; no live application URL is claimed. `screenshots/GitHub_Repository.png` records the published repository, not the dashboard.
+- [Live deployment verification](docs/LIVE_VERIFICATION.md) and actual dashboard screenshots in `screenshots/`. Deployed by Harsh Vardhan Tomar; live navigation and key controls verified on 18 October 2026.
 - [Interview guide and resume entry](docs/INTERVIEW_GUIDE.md)
 - [Verification and deployment checkpoint](docs/DELIVERY_STATUS.md)
 
